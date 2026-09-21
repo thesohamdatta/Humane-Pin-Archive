@@ -1,6 +1,6 @@
 # Let's Revive the Humane AI Pin
 
-![Humane AI Pin teardown](assets/Humane-AI-torn-down-2048x1367%20(1).jpg)
+![Humane AI Pin teardown](Humane-AI-torn-down-2048x1367%20%281%29.jpg)
 
 The company is gone, but the hardware is still worth understanding.
 
@@ -9,8 +9,8 @@ The Humane AI Pin was a screenless wearable computer built around a Qualcomm Sna
 I started this archive to keep the useful technical knowledge in one place. The details are scattered across teardowns, FCC filings, patents, Humane documentation, firmware work, and community reverse engineering. This README keeps the parts that can be tied to evidence and leaves uncertain details marked as such.
 
 <div align="center">
-  <img src="assets/Humane-first-look.jpg" width="49%" alt="Humane AI Pin first look">
-  <img src="assets/Humane-Pin-1-1536x768.jpg" width="49%" alt="Humane AI Pin internal board">
+  <img src="Humane-first-look.jpg" width="49%" alt="Humane AI Pin first look">
+  <img src="Humane-Pin-1-1536x768.jpg" width="49%" alt="Humane AI Pin internal board">
 </div>
 
 ## What it is
