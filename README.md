@@ -1,10 +1,17 @@
 # Let's Revive the Humane AI Pin
 
+![Humane AI Pin teardown](assets/Humane-AI-torn-down-2048x1367%20(1).jpg)
+
 The company is gone, but the hardware is still worth understanding.
 
 The Humane AI Pin was a screenless wearable computer built around a Qualcomm Snapdragon 720G, a laser-scanning projector, a camera, a depth sensor, cellular connectivity, and a small internal battery. Much of its assistant functionality depended on network services rather than local model inference.
 
 I started this archive to keep the useful technical knowledge in one place. The details are scattered across teardowns, FCC filings, patents, Humane documentation, firmware work, and community reverse engineering. This README keeps the parts that can be tied to evidence and leaves uncertain details marked as such.
+
+<div align="center">
+  <img src="assets/Humane-first-look.jpg" width="49%" alt="Humane AI Pin first look">
+  <img src="assets/Humane-Pin-1-1536x768.jpg" width="49%" alt="Humane AI Pin internal board">
+</div>
 
 ## What it is
 
